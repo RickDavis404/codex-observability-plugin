@@ -1,0 +1,4 @@
+node_modules
+plugins/tracing/dist
+pnpm-lock.yaml
+plugins/tracing/test/fixtures
